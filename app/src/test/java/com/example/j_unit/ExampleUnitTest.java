@@ -6,6 +6,9 @@ import static org.junit.Assert.*;
 
 
 public class ExampleUnitTest {
+
+    //melakukan eksekusi dari method yang dibuat
+    //jika hasil yang dimasukan benar maka hasil akan benar dan jika salah maka hasil akan salah
     @Test
     public void testAddition() {
         operasi_matematika math = new operasi_matematika();
